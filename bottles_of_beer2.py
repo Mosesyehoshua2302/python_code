@@ -3,8 +3,8 @@
 
 def song(num_of_bottles): 
   
-  while num_of_bottles >= 2:
-    if num_of_bottles > 2:
+  while num_of_bottles >= 0:
+    if num_of_bottles >= 2:
       print(str(num_of_bottles) + " bottles of beer on the wall" )
       print(str(num_of_bottles) + " bottles of beer" )
       print("take one down, pass it around ")
