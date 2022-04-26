@@ -1,6 +1,4 @@
 
-from ast import Break, IsNot
-
 
 input = input(" Ask Grandma something: ")
 lower_case = input.islower()
