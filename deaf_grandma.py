@@ -23,11 +23,6 @@ def response(input):
       print("LEAVING SO SOON?!")
       break
     
-  
-  
-
-  
-
 response(input)
 
 
